@@ -241,3 +241,5 @@ Yet Mitra stored it anyway.
 The system continued as normal.
 
 Almost.
+
+[Next](chapter-4.md)
