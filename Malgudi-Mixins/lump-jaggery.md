@@ -1,6 +1,6 @@
 # The Lump of Jaggery
 
-<img src="assets/lj.pmg" />
+<img src="assets/lj.png" />
 
 When Srinivas turned sixty-three, he discovered that evenings had become longer.
 
