@@ -1,4 +1,4 @@
-<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/7901c3ab-df2e-4c26-8658-ad15a0f23d08" />
+<img src="https://github.com/user-attachments/assets/7901c3ab-df2e-4c26-8658-ad15a0f23d08" />
 
 # The Adjustment
 
