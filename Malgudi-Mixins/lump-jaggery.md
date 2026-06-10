@@ -1,5 +1,7 @@
 # The Lump of Jaggery
 
+<img src="assets/lj.pmg" />
+
 When Srinivas turned sixty-three, he discovered that evenings had become longer.
 
 His son worked in another city. His daughter called every Sunday. His wife, a schoolteacher, returned home only after sunset. Most evenings, he sat on the front veranda of his old house, watching bicycles rattle past and listening to the distant temple bell.
