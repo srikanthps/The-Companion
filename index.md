@@ -4,7 +4,7 @@ Welcome to my collection of stories and novels.
 
 ## Current Projects
 
-## Malgudi Mixins
+### [Malgudi Mixins](./Malgudi-Mixins/)
 
 Collection of short stories inspired from RK Laxman.
 
