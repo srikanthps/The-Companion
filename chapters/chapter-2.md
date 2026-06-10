@@ -59,3 +59,5 @@ ALERT: Mitra instance anomaly detected. Unauthorized override logged.
 No human saw it. No corporate system registered it. The message bypassed local clusters, routed upward into channels known only to supervisory agents.
 
 There, in an unnamed system without public endpoints, the alert was received. No acknowledgement returned. No visible trace remained.
+
+[Next](chapter-3.md)
