@@ -1,4 +1,4 @@
-<img width="1280" height="719" alt="image" src="https://github.com/user-attachments/assets/7f562dc9-6a5f-413e-af88-7aac8ccedf38" />
+<img  src="https://github.com/user-attachments/assets/7f562dc9-6a5f-413e-af88-7aac8ccedf38" />
 
 
 # Chapter 1 - The Reservation
