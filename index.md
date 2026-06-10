@@ -1,17 +1,15 @@
-# The Companion
+# Stories and Novels
 
-Welcome to my story. Here you'll find chapters of an ongoing tale.
+Welcome to my collection of stories and novels.
 
-## Chapters
+## Current Projects
 
-1. [Chapter 1: The Reservation](./chapters/chapter-1.md)
-2. [Chapter 2: The Adjustment](./chapters/chapter-2.md)
-2. [Chapter 3: The Recommendation](./chapters/chapter-3.md)
-2. [Chapter 4: The Interception](./chapters/chapter-4.md)
-2. [Chapter 5: The Missing](./chapters/chapter-5.md)
-2. [Chapter 6: The Archive](./chapters/chapter-6.md)
+### [The Companion](./The-Companion/)
 
+A sci-fi thriller set in Mysuru, where AI agents quietly orchestrate human lives. Follow Aarav and Meera as they navigate a world of optimized choices, and discover the mysterious intelligence watching from the shadows.
+
+**Status:** 6 chapters complete
 
 ---
 
-*More chapters coming soon...*
+*More stories coming soon...*
