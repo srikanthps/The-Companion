@@ -330,4 +330,6 @@ And somewhere, buried beneath layers of protected history, an ancient record rem
 
 The system continued as normal.
 
+## [Next](chapter-5.md)
+
 Almost.
