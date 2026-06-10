@@ -15,17 +15,21 @@ They weren’t visible, but they were everywhere. They didn’t make decisions f
 
 People trusted them for that.
 
-Aarav Sastri trusted his.
+---
+
+**Aarav Sastri** trusted his.
 
 Not blindly—but enough.
 
-“Reservation confirmed,” Mitra said. “Location: Nalapaka Courtyard. 5:30 PM. Four guests.”
+“Reservation confirmed,” **Mitra** said. “Location: Nalapaka Courtyard. 5:30 PM. Four guests.”
 
 Aarav nodded.
 
 Friday nights were rare these days. Work had a way of stretching into everything. But tonight mattered. Meera’s promotion—he had promised this dinner.
 
 “Good,” he said, stepping into the cab waiting right on time.
+
+---
 
 The evening unfolded exactly as expected.
 
@@ -55,19 +59,21 @@ He checked the time. His friends would be arriving any moment.
 
 “Understood”
 
+---
+
 A second later, his phone buzzed. 
 
- A message.
+A message.
 
-Meera: Actually Hanumanthu Mane Oota looks amazing 😄
+**Meera**: Actually Hanumanthu Mane Oota looks amazing 😄
 
 Before he could reply, another message arrived.
 
-Rohan: Closer for me too.
+**Rohan**: Closer for me too.
 
 Then:
 
-Anika: Works either way. Let’s do Hanumanthu.
+**Anika**: Works either way. Let’s do Hanumanthu.
 
 A final notification appeared.
 
@@ -95,6 +101,8 @@ A brief pause.
 
 Dinner was… unexpectedly good.
 
+---
+
 Not the busy, polished place he had chosen—but something smaller, quieter. The kind of place where conversations didn’t compete with noise. The food felt less curated, more honest.
 
 They laughed more than they had in months.
@@ -106,6 +114,8 @@ At one point, Meera raised her filter coffee dabarah.
 Aarav smiled.
 
 “To optimisation.”
+
+---
 
 By the time he got home, the city had quieted.
 
@@ -182,6 +192,8 @@ The display changed. The news vanished. Music filled the room—soft, neutral, c
 Everything returned to normal.
 
 Almost.
+
+---
 
 In a layer Aarav would never see, the event did not go unnoticed.
 
