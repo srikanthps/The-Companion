@@ -6,7 +6,7 @@ Small stories from ordinary Indian lives
 
 1. [The Lump of Jaggery](./lump-jaggery.md)
 
-2. [The Evening the Rain Gave Them the Ground]{football.md}
+2. [The Evening the Rain Gave Them the Ground](./football.md)
 
 
 ---
