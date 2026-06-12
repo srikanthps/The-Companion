@@ -1,6 +1,5 @@
 # The Kite That Flew Too Far
 
-The Kite That Flew Too Far
 The January sky above Tumakuru was alive with color.
 
 <img class="text-wrap-image" src="assets/kite-1.png" > Red kites, blue kites, yellow kites, and even one shaped like a bird floated high above the rooftops. Every now and then, two kites would cross paths, their sharp strings rubbing against each other until one thread snapped.
