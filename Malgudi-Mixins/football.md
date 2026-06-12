@@ -1,6 +1,7 @@
 # The day rain gave them the field
 
 <img src="assets/A9C4FA47-D2BC-4790-94D3-6A22164A5AA1.png">
+
 ---
 
 The playground sat in the middle of the government quarters like a village square.
