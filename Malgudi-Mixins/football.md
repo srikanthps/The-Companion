@@ -25,7 +25,7 @@ He leaned out of the window.
 
 Das stood in the rain with a football tucked under one arm. Beside him was Chatterjee, already soaked.
 
-<img class="text-wrap-image" width="50%" src="assets/friends-call.png" >
+<img class="text-wrap-image" src="assets/friends-call.png" >
 
 “Coming or not?” shouted Das.
 
@@ -73,7 +73,7 @@ Babtu, Monty and Chatterjee.
 The match began immediately.
 The field belonged to them.
 
-<img class="text-wrap-image" width="50%" src="assets/football-play.png" >
+<img class="text-wrap-image" src="assets/football-play.png" >
 
 
 
@@ -157,7 +157,7 @@ He opened the door cautiously.
 
 His mother looked up from the kitchen.
 
-<img class="text-wrap-image" width="50%" src="assets/mom.png" >
+<img class="text-wrap-image" src="assets/mom.png" >
 
 For a few seconds she simply stared at him.
 
@@ -170,6 +170,7 @@ Mud on his face.
 Venkat braced himself.
 
 Instead, she smiled.
+
 
 “Chennagittu?”
 
