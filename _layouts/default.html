@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#157878">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  <style>
+    body {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+
+    .page-header {
+      display: none;
+    }
+
+    .page-header h1,
+    .page-header p {
+      display: none;
+    }
+
+    .main-content {
+      max-width: 100%;
+      padding: 2rem 1rem;
+    }
+
+    .main-content h1,
+    .main-content h2,
+    .main-content h3,
+    .main-content p,
+    .main-content ul,
+    .main-content ol,
+    .main-content blockquote {
+      max-width: 90vw;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-size: 2em;
+      line-height: 1.4;
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+    }
+
+    h1 {
+      font-size: 2.5em;
+    }
+
+    h2 {
+      font-size: 2.2em;
+    }
+
+    h3 {
+      font-size: 2em;
+    }
+
+    p {
+      font-size: 1.1em;
+      margin-bottom: 1.2em;
+    }
+
+    @media screen and (min-width: 64em) {
+      .main-content {
+        padding: 2rem 4rem;
+      }
+
+      .main-content h1,
+      .main-content h2,
+      .main-content h3,
+      .main-content p,
+      .main-content ul,
+      .main-content ol,
+      .main-content blockquote {
+        max-width: 80vw;
+      }
+    }
+
+    .site-footer {
+      padding: 1rem 2rem;
+      border-top: 1px solid #e1e4e8;
+      color: #666;
+      font-size: 0.9em;
+      text-align: center;
+      margin-top: 3rem;
+    }
+
+    .site-footer a {
+      color: #0366d6;
+    }
+  </style>
+  <title>{{ page.title | default: site.title | default: 'Stories and Novels' }}</title>
+</head>
+<body>
+  <main id="content" class="main-content" role="main">
+    {{ content }}
+  </main>
+
+  <footer class="site-footer">
+    <p>Stories written by Srikanth Shreenivas, and assisted by AI tools</p>
+  </footer>
+</body>
+</html>
