@@ -8,6 +8,7 @@ Small stories from ordinary Indian lives
 
 2. [The Evening the Rain Gave Them the Ground](./football.md)
 
+3. [The Kite That Flew Too Far](./kite.md)
 
 ---
 
