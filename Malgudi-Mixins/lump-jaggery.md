@@ -4,7 +4,7 @@
 
 When Srinivas turned sixty-three, he discovered that evenings had become longer.
 
-His son worked in another city. His daughter called every Sunday. His wife, a schoolteacher, returned home only after sunset. Most evenings, he sat on the front veranda of his old house, watching b[...]
+His son worked in another city. His daughter called every Sunday. His wife, a schoolteacher, returned home only after sunset. Most evenings, he sat on the front veranda of his old house, watching bycycles rattle past and listening to the distant temple bell.
 
 One summer, a new family moved into the house next door.
 
