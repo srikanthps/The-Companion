@@ -66,14 +66,14 @@ The football was placed on the wet grass.
 Teams were chosen.
 
 Venkat, Das and Bittu.
-
 Babtu, Monty and Chatterjee.
 
 The match began immediately.
-
-<img src="assets/football-play.png" >
-
 The field belonged to them.
+
+<img class="text-wrap-image" width="50%" src="assets/football-play.png" >
+
+
 
 For once, nobody had to wait for a chance.
 
