@@ -1,4 +1,4 @@
-# Malgudi Mixins
+# Small stories from Big world
 
 Small stories from ordinary Indian lives
 
