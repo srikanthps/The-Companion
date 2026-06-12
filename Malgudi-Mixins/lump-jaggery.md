@@ -12,7 +12,7 @@ Among them was a little girl named Anagha, who was four years old and possessed 
 
 On the very first day, she marched into his courtyard carrying a broken plastic bucket.
 
-"Thatha," she announced, "this is my treasure box."
+"Hi," she announced, "this is my treasure box."
 
 Srinivas peered into it.
 
@@ -20,9 +20,9 @@ Inside were three pebbles, a bottle cap, a feather, and what looked suspiciously
 
 "A fine collection," he said gravely.
 
-Within a week, Anagha had given him the title "Thatha," a title he secretly cherished far more than she knew.
-
 From that day onward, Anagha visited every evening.
+
+Somewhere along the way, Anagha began calling him "Thatha".  Srinivas never asked why. Secretly, he liked the title far more than he cared to admit.
 
 She would sit cross-legged beside him on the veranda while he shelled peanuts or watered the jasmine plants.
 
@@ -140,7 +140,7 @@ And just like that, her sadness vanished.
 
 ⸻
 
-One evening, after a particularly long story about a crooked clay pot, Anagha stood up, dusted her skirt, and announced that she had to go home before her mother came looking for her.
+One evening, after a particularly long animated story about a monkey that stole mangoes in the village, Anagha stood up, dusted her skirt, and announced that she had to go home before her mother came looking for her.
 
 Before leaving, she turned back.
 
