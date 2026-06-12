@@ -26,6 +26,57 @@
     img {
       width: 100%;
     }
+
+    /* Breadcrumb Styles */
+    .breadcrumb {
+      padding: 1rem;
+      background-color: #f5f5f5;
+      border-bottom: 1px solid #ddd;
+      font-size: 0.95em;
+      max-width: 100%;
+    }
+
+    .breadcrumb ol {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      max-width: 90vw;
+      margin-left: auto;
+      margin-right: auto;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+
+    .breadcrumb li {
+      display: inline;
+      margin: 0;
+    }
+
+    .breadcrumb li:not(:last-child)::after {
+      content: " / ";
+      margin-left: 0.5rem;
+      color: #999;
+    }
+
+    .breadcrumb a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+
+    .breadcrumb a:hover {
+      text-decoration: underline;
+    }
+
+    .breadcrumb li:last-child {
+      color: #666;
+      font-weight: 500;
+    }
+
+    .breadcrumb li:last-child a {
+      color: #666;
+      cursor: default;
+    }
     
     .main-content {
       min-height: calc(100vh - 120px);
@@ -176,6 +227,27 @@
   <title>{{ page.title | default: site.title | default: 'Stories and Novels' }}</title>
 </head>
 <body>
+  <!-- Breadcrumb Navigation -->
+  {% assign crumbs = page.url | split: '/' %}
+  {% if crumbs.size > 2 or page.url != '/' %}
+  <nav class="breadcrumb" aria-label="breadcrumb">
+    <ol>
+      <li><a href="/">Home</a></li>
+      {% assign path = "" %}
+      {% for crumb in crumbs %}
+        {% if crumb != "" and crumb != "index.html" %}
+          {% assign path = path | append: '/' | append: crumb %}
+          {% if forloop.last %}
+            <li>{{ crumb | replace: '-', ' ' | capitalize }}</li>
+          {% else %}
+            <li><a href="{{ path }}/">{{ crumb | replace: '-', ' ' | capitalize }}</a></li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </ol>
+  </nav>
+  {% endif %}
+
   <main id="content" class="main-content" role="main">
     {{ content }}
   </main>
