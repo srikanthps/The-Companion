@@ -1,7 +1,5 @@
 # The Companion
 
-[← Back to Home]({{ site.baseurl }}/)
-
 Welcome to my story. Here you'll find chapters of an ongoing tale.
 
 ## Chapters
