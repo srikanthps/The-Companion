@@ -1,5 +1,7 @@
 # Malgudi Mixins
 
+[← Back to Home]({{ site.baseurl }}/)
+
 Small stories from ordinary Indian lives
 
 ## Chapters
