@@ -1,8 +1,5 @@
 # The day rain gave them the field
 
-<img src="assets/football-play.png">
-
----
 
 The playground sat in the middle of the government quarters like a village square.
 
@@ -73,6 +70,8 @@ Venkat, Das and Bittu.
 Babtu, Monty and Chatterjee.
 
 The match began immediately.
+
+<img src="assets/football-play.png" >
 
 The field belonged to them.
 
