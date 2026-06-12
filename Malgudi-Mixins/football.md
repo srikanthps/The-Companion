@@ -25,6 +25,8 @@ He leaned out of the window.
 
 Das stood in the rain with a football tucked under one arm. Beside him was Chatterjee, already soaked.
 
+<img class="text-wrap-image" width="50%" src="assets/friends-call.png" >
+
 “Coming or not?” shouted Das.
 
 Venkat laughed.
@@ -57,7 +59,7 @@ The decision took less than a second.
 
 Then he disappeared from the window.
 
-⸻
+---
 
 By the time all six boys gathered near the playground, the rain had become heavier.
 
@@ -121,7 +123,7 @@ They forgot the score.
 
 And somewhere during the evening, they forgot about the rain as well.
 
-⸻
+---
 
 As darkness approached, lights began appearing one by one in the surrounding quarters.
 
@@ -139,7 +141,7 @@ For a moment they stood together in the rain, breathing heavily and grinning.
 
 Nobody disagreed.
 
-⸻
+---
 
 On the walk home, however, a different concern entered Venkat’s mind.
 
@@ -154,6 +156,8 @@ By the time he reached home, he had already prepared several apologies.
 He opened the door cautiously.
 
 His mother looked up from the kitchen.
+
+<img class="text-wrap-image" width="50%" src="assets/mom.png" >
 
 For a few seconds she simply stared at him.
 
@@ -199,7 +203,7 @@ He turned.
 
 For a moment Venkat wondered if the rain had somehow softened not just the playground but also his mother’s resolve.
 
-⸻
+---
 
 A little later, wrapped in dry clothes and holding a plate of hot pakodas, he sat by the window once again.
 
