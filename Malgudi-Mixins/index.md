@@ -10,6 +10,8 @@ Small stories from ordinary Indian lives
 
 3. [The Kite That Flew Too Far](./kite.md)
 
+[The Sand Cave](./sandcave.md)
+
 ---
 
 *More chapters coming soon...*
