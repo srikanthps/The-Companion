@@ -124,9 +124,10 @@ He told her about a clay pot made by a village potter. The pot leaned slightly t
 
 Nobody bought it.
 
-<img class="text-wrap-image" src="assets/jaggery-3.png" >
-
 Years later, a woman purchased it cheaply and used it to grow a flowering plant. Because the pot leaned, the flowers spilled beautifully over the edge.
+
+<img class="text-wrap-image" src="assets/jaggery-4.png" >
+
 
 The crooked pot became the prettiest thing in her courtyard.
 
