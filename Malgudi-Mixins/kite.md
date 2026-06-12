@@ -117,6 +117,8 @@ For the first time that day, Muthu felt very small.
 
 He sat beneath the neem tree, clutching the green kite.
 
+<img class="text-wrap-image" src="assets/kite-3.png" >
+
 What if he never found his way back?
 
 His eyes filled with tears.
@@ -211,7 +213,7 @@ Shivanna stopped.
 
 A few minutes later, the family stood around the cart eating soft, steaming idlis from steel plates.
 
-<img class="text-wrap-image" src="assets/kite-3.png" >
+<img class="text-wrap-image" src="assets/kite-4.png" >
 
 The green kite rested beside Muthu.
 
