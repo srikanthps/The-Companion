@@ -1,7 +1,5 @@
 # The Lump of Jaggery
 
-<img src="assets/jaggery-1.png" />
-
 When Srinivas turned sixty-three, he discovered that evenings had become longer.
 
 His son worked in another city. His daughter called every Sunday. His wife, a schoolteacher, returned home only after sunset. Most evenings, he sat on the front veranda of his old house, watching bycycles rattle past and listening to the distant temple bell.
@@ -15,6 +13,8 @@ On the very first day, she marched into his courtyard carrying a broken plastic 
 "Hi," she announced, "this is my treasure box."
 
 Srinivas peered into it.
+
+<img class="text-wrap-image" src="assets/jaggery-2.png" >
 
 Inside were three pebbles, a bottle cap, a feather, and what looked suspiciously like a dead leaf.
 
@@ -123,6 +123,8 @@ She nodded.
 He told her about a clay pot made by a village potter. The pot leaned slightly to one side and looked imperfect beside the others.
 
 Nobody bought it.
+
+<img class="text-wrap-image" src="assets/jaggery-3.png" >
 
 Years later, a woman purchased it cheaply and used it to grow a flowering plant. Because the pot leaned, the flowers spilled beautifully over the edge.
 
