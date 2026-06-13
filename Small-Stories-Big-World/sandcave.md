@@ -62,6 +62,8 @@ Other mothers and fathers were calling too.
 
 The children exchanged knowing smiles.
 
+<img class="text-wrap-image" src="assets/sandcave-3.png" >
+
 This was the best part.
 
 One by one they jumped on their creations.
@@ -88,7 +90,7 @@ Jump!
 
 Anu flew through the air and landed right on top of her beautiful cave.
 
-<img class="text-wrap-image" src="assets/sandcave-3.png" >
+
 
 The little igloo crumbled into a pile of sand.
 
