@@ -14,4 +14,6 @@ Small stories from ordinary Indian lives
 
 5. [The Marble Treasure](./marble.md)
 
-6. [The Lock That Wouldn’t Stay Locked](./lock.md)
+6. [The Fanta Ambussh](./fanta.md)
+
+7. [The Lock That Wouldn’t Stay Locked](./lock.md)
