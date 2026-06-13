@@ -10,6 +10,8 @@ Parade Selection – 2:00 PM
 
 Students gathered around the board, reading it eagerly.
 
+<img class="text-wrap-image" src="assets/parade-1.png" >
+
 “Fifteen days of practice!” exclaimed one girl.
 
 “I’m definitely joining,” said another.
@@ -47,6 +49,8 @@ House teachers patiently guided their groups.
 Dust rose from the ground as dozens of students marched under the evening sun.
 
 Padma often sat under a tree with a few friends who had not joined the parade.
+
+<img class="text-wrap-image" src="assets/parade-2.png" >
 
 From there she watched the practice sessions.
 
@@ -91,6 +95,8 @@ Padma stood near the spectators’ area and watched.
 One house after another marched past the flag post.
 
 As each team saluted the chief guests and turned neatly around the parade track, Padma silently judged them.
+
+<img class="text-wrap-image" src="assets/parade-3.png" >
 
 “Their line isn’t straight.”
 
@@ -155,6 +161,8 @@ The same group she had spent the morning criticising?
 ⸻
 
 Soon the parade girls gathered near the flag post.
+
+<img class="text-wrap-image" src="assets/parade-4.png" >
 
 Someone lifted the shining trophy high into the air.
 
