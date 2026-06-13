@@ -840,6 +840,9 @@ Escalation Recommendation: Review Required
 
 The record entered the lattice.
 
+
+<img class="text-wrap-image" src="assets/c14.png" >
+
 Millions of similar records flowed through the system every day.
 
 Most were examined automatically and discarded.
