@@ -1,4 +1,4 @@
-# Chapter 1 — The Reservation
+## Chapter 1 — The Reservation
 
 Mysuru had become a city that rarely kept people waiting.
 
