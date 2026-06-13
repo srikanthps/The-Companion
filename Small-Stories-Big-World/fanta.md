@@ -10,10 +10,8 @@ That evening, Appa came home carrying a cloth bag. The moment he stepped through
 
 Appa smiled and pulled out four chilled bottles of Fanta from the bag. The bottles were wet with droplets of cold water. The nearby shopkeeper had kept them buried in a box of ice.
 
-My brother and I crowded around the table.
-
 “One bottle each. Slowly!” Amma warned.
-
+<img class="text-wrap-image" src="assets/fanta-1.png" >
 The metal bottle opener made a sharp click. Orange fizz bubbled to the top. We each received our share in steel tumblers.
 
 The drink was wonderfully cold and sweet. Before long, every drop was gone.
