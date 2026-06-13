@@ -10,7 +10,7 @@ That evening, Appa came home carrying a cloth bag. The moment he stepped through
 
 Appa smiled and pulled out four chilled bottles of Fanta from the bag. The bottles were wet with droplets of cold water. The nearby shopkeeper had kept them buried in a box of ice.
 
-“One bottle each. Slowly!” Amma warned.
+“One glass at a time. Drink Slowly!” Amma warned.
 <img class="text-wrap-image" src="assets/fanta-1.png" >
 The metal bottle opener made a sharp click. Orange fizz bubbled to the top. We each received our share in steel tumblers.
 
@@ -43,6 +43,8 @@ Perfect.
 Without another thought, I put the bottle to my lips and took a big gulp.
 
 The next second, I jumped.
+
+<img class="text-wrap-image" src="assets/fanta-2.png" >
 
 “AAAAAH!”
 
