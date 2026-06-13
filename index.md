@@ -4,7 +4,7 @@ Welcome to my collection of stories and novels.
 
 ### Current Projects
 
-#### [Small stories from Big world]({{ site.baseurl }}/Malgudi-Mixins/)
+#### [Small stories from Big world]({{ site.baseurl }}/Small-Stories-Big-World/)
 
 Collection of short stories inspired from life experiences.
 
