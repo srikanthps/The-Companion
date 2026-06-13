@@ -12,6 +12,3 @@ Small stories from ordinary Indian lives
 
 4. [The Sand Cave](./sandcave.md)
 
----
-
-*More chapters coming soon...*
