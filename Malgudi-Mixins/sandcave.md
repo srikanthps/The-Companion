@@ -5,6 +5,7 @@ One sunny afternoon, a truck rumbled into the playground beside the Bokaro quart
 The children stopped their games and stared.
 
 The truck slowly lifted its bed and poured out a huge mountain of golden sand.
+<img class="text-wrap-image" src="assets/sandcave-1.png" >
 
 “Wow!” whispered five-year-old Anu.
 
@@ -19,6 +20,7 @@ The playground became a kingdom of imagination.
 Three children worked together on a grand castle with towers and walls.
 
 Two boys buried their legs in the sand and pretended they were growing out of the ground like trees.
+
 
 And Anu had her own special plan.
 
@@ -40,29 +42,13 @@ Then she made a narrow road leading to the entrance.
 
 Along both sides of the road she planted more flowers like a colorful sidewalk.
 
+<img class="text-wrap-image" src="assets/sandcave-2.png" >
+
 Her cave looked magical.
 
-Every afternoon the children returned.
-
-They built castles.
-
-They built mountains.
-
-They buried their legs.
-
-They made roads and forts and tiny villages.
-
-Each day the sand pile became a little smaller as workers carried sand away to build the nearby house.
-
-But nobody worried.
-
-Tomorrow they would build something new.
-
-One evening the sky turned orange and purple as the sun began to set.
+The sky turned orange and purple as the sun began to set.
 
 A pale moon appeared above the playground.
-
-The children admired their creations one last time.
 
 Then a familiar voice called across the field.
 
@@ -102,6 +88,8 @@ Jump!
 
 Anu flew through the air and landed right on top of her beautiful cave.
 
+<img class="text-wrap-image" src="assets/sandcave-3.png" >
+
 The little igloo crumbled into a pile of sand.
 
 Everyone burst out laughing.
@@ -136,6 +124,8 @@ Friendly squirrels.
 
 Playful squirrels.
 
+<img class="text-wrap-image" src="assets/sandcave-4.png" >
+
 They chased each other around the cave, shared nuts with Anu, and curled up beside her.
 
 One squirrel sat on her shoulder.
@@ -152,6 +142,22 @@ As the moon shone over the magical flower-covered cave, Anu and her squirrel fri
 
 And when morning came, she woke with a smile.
 
-Because she knew that after school, there was still a little sand left in the playground.
+Because she knew that after school, there was still a sand in the playground.
 
 And perhaps one more cave waiting to be built.
+
+Every afternoon the children returned.
+
+They built castles.
+
+They built mountains.
+
+They buried their legs.
+
+They made roads and forts and tiny villages.
+
+Each day the sand pile became a little smaller as workers carried sand away to build the nearby house.
+
+But nobody worried.
+
+Tomorrow they would build something new.
