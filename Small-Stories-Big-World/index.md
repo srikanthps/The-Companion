@@ -12,3 +12,6 @@ Small stories from ordinary Indian lives
 
 4. [The Sand Cave](./sandcave.md)
 
+5. [The Marble Treasure](./marble.md)
+
+6. [The Lock That Wouldn’t Stay Locked](./lock.md)
