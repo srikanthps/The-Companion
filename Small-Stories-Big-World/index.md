@@ -17,3 +17,4 @@ Small stories from ordinary Indian lives
 6. [The Fanta Ambussh](./fanta.md)
 
 7. [The Lock That Wouldn’t Stay Locked](./lock.md)
+8. [Padma andParade](./parade.md)
