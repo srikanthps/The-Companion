@@ -58,6 +58,8 @@ Friend.
 
 The name still felt appropriate.
 
+<img class="text-wrap-image" src="assets/c11.png" >
+
 A cab glided silently to the curb.
 
 The door opened before he reached it.
@@ -325,6 +327,8 @@ The server arrived before the debate could continue.
 Orders were placed.
 
 Food began arriving gradually.
+
+<img class="text-wrap-image" src="assets/c12.png" >
 
 Mysore masala dosa folded into crisp golden triangles.
 
@@ -645,6 +649,8 @@ The scene looked orderly.
 Yet something about it felt wrong.
 
 A reporter’s voice replaced the ambient music.
+
+<img class="text-wrap-image" src="assets/c13.png" >
 
 “Authorities are investigating an unusual disruption that occurred earlier this evening at Nalapaka Courtyard. Preliminary reports indicate failures involving identity verification and location services affecting multiple guests.”
 
