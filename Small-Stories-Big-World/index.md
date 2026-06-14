@@ -10,7 +10,7 @@ Small stories from ordinary Indian lives
 
 3. [The Kite That Flew Too Far](./kite.md)
 
-4. [The Sand Cave](./sandcabe.md)
+4. [The Sand Cave](./sandcave.md)
    ([Comic strip version](./sand-castle-comic.md))
 
 6. [The Marble Treasure](./marble.md)
