@@ -14,7 +14,7 @@ On the very first day, she marched into his courtyard carrying a broken plastic 
 
 Srinivas peered into it.
 
-<img class="text-wrap-image" src="assets/jaggery-2.png" >
+<img class="text-wrap-image" src="assets/jaggery-n1.png" >
 
 Inside were three pebbles, a bottle cap, a feather, and what looked suspiciously like a dead leaf.
 
@@ -25,6 +25,8 @@ From that day onward, Anagha visited every evening.
 Somewhere along the way, Anagha began calling him "Thatha".  Srinivas never asked why. Secretly, he liked the title far more than he cared to admit.
 
 She would sit cross-legged beside him on the veranda while he shelled peanuts or watered the jasmine plants.
+
+<img class="text-wrap-image" src="assets/jaggery-n2.png" >
 
 At first, she spoke endlessly.
 
@@ -37,6 +39,8 @@ About why cats did not wear shoes.
 About how her father was very tall but still could not touch the moon.
 
 Srinivas listened as though each topic were of national importance.
+
+<img class="text-wrap-image" src="assets/jaggery-n3.png" >
 
 One evening, when she had exhausted her supply of questions, she asked, "Thatha, what did you do when you were little?"
 
@@ -61,6 +65,8 @@ And so began the stories.
 He told her about climbing mango trees and returning home with scratched knees.
 
 About paper boats sailing down monsoon gutters.
+
+<img class="text-wrap-image" src="assets/jaggery-n4.png" >
 
 About stealing tamarind pods from a neighbour's tree and then confessing because the guilt was heavier than the tamarind.
 
@@ -96,6 +102,8 @@ A story, she believed, should leave sweetness behind.
 
 Anagha accepted the jaggery with great seriousness.
 
+<img class="text-wrap-image" src="assets/jaggery-n5.png" >
+
 She would nibble it slowly while pondering the events of the tale.
 
 Soon she began asking for stories first and jaggery second.
@@ -124,9 +132,9 @@ He told her about a clay pot made by a village potter. The pot leaned slightly t
 
 Nobody bought it.
 
-Years later, a woman purchased it cheaply and used it to grow a flowering plant. Because the pot leaned, the flowers spilled beautifully over the edge.
+<img class="text-wrap-image" src="assets/jaggery-n6.png" >
 
-<img class="text-wrap-image" src="assets/jaggery-4.png" >
+Years later, a woman purchased it cheaply and used it to grow a flowering plant. Because the pot leaned, the flowers spilled beautifully over the edge.
 
 
 The crooked pot became the prettiest thing in her courtyard.
@@ -144,6 +152,8 @@ And just like that, her sadness vanished.
 ⸻
 
 One evening, after a particularly long animated story about a monkey that stole mangoes in the village, Anagha stood up, dusted her skirt, and announced that she had to go home before her mother came looking for her.
+
+<img class="text-wrap-image" src="assets/jaggery-n7.png" >
 
 Before leaving, she turned back.
 
@@ -174,5 +184,7 @@ The evenings had not become any shorter.
 They had simply become something to look forward to.
 
 And somewhere next door, a little girl was probably wondering whether the mangoes would taste sweeter in tomorrow's version of the story.
+
+<img class="text-wrap-image" src="assets/jaggery-n8.png" >
 
 The next evening, Srinivas was on the veranda ten minutes earlier than usual.
