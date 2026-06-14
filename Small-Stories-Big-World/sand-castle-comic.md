@@ -4,4 +4,4 @@
 
 <img src="assets/sandcastle-c3.png">
 
-<img src="assets/sandcastle-c4.opng">
+<img src="assets/sandcastle-c4.png">
