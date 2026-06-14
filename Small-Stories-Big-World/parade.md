@@ -150,8 +150,6 @@ He paused.
 
 The ground erupted with cheers.
 
-<img class="text-wrap-image" src="assets/parade-n7.png" >
-
 Girls jumped with excitement.
 
 Teachers clapped.
@@ -170,7 +168,7 @@ The same group she had spent the morning criticising?
 
 Soon the parade girls gathered near the flag post.
 
-<img class="text-wrap-image" src="assets/parade-4.png" >
+<img class="text-wrap-image" src="assets/parade-n7.png" >
 
 Someone lifted the shining trophy high into the air.
 
