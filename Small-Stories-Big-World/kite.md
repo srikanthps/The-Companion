@@ -2,7 +2,9 @@
 
 The January sky above Tumakuru was alive with color.
 
-<img class="text-wrap-image" src="assets/kite-1.png" > Red kites, blue kites, yellow kites, and even one shaped like a bird floated high above the rooftops. Every now and then, two kites would cross paths, their sharp strings rubbing against each other until one thread snapped.
+<img class="text-wrap-image" src="assets/kite1.png" >
+
+Red kites, blue kites, yellow kites, and even one shaped like a bird floated high above the rooftops. Every now and then, two kites would cross paths, their sharp strings rubbing against each other until one thread snapped.
 
 “Cut! Cut! Cut!” children shouted.
 
@@ -28,7 +30,7 @@ Muthu ran too.
 
 The kite floated over a row of houses.
 
-<img class="text-wrap-image" src="assets/kite-2.png" >
+<img class="text-wrap-image" src="assets/kite2.png" >
 
 The children followed.
 
@@ -60,6 +62,8 @@ The older boy finally stopped.
 
 “Too far!” he shouted.
 
+<img class="text-wrap-image" src="assets/kite3.png" >
+
 But Muthu refused to give up.
 
 The green kite had become his mission.
@@ -77,6 +81,8 @@ It drifted downward and settled gently on the branches of a small neem tree.
 Muthu’s heart leaped.
 
 He climbed carefully, reached out, and grabbed the tail.
+
+<img class="text-wrap-image" src="assets/kite4.png" >
 
 The kite was his.
 
@@ -116,7 +122,7 @@ For the first time that day, Muthu felt very small.
 
 He sat beneath the neem tree, clutching the green kite.
 
-<img class="text-wrap-image" src="assets/kite-3.png" >
+<img class="text-wrap-image" src="assets/kite5.png" >
 
 What if he never found his way back?
 
@@ -131,6 +137,8 @@ When Muthu did not return by evening, she asked Ravi where he had gone.
 “I thought he was playing nearby,” Ravi said.
 
 Soon the whole family was searching.
+
+<img class="text-wrap-image" src="assets/kite6.png" >
 
 Ravi checked the playground.
 
@@ -163,6 +171,8 @@ It was Ravi.
 Muthu jumped to his feet.
 
 “I’m here! I’m here!”
+
+<img class="text-wrap-image" src="assets/kite7.png" >
 
 A few moments later, Shivanna appeared at the end of the lane, followed by Amma and Ravi.
 
@@ -212,7 +222,7 @@ Shivanna stopped.
 
 A few minutes later, the family stood around the cart eating soft, steaming idlis from steel plates.
 
-<img class="text-wrap-image" src="assets/kite-4.png" >
+<img class="text-wrap-image" src="assets/kite8.png" >
 
 The green kite rested beside Muthu.
 
