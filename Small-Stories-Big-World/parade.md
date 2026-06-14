@@ -10,7 +10,7 @@ Parade Selection – 2:00 PM
 
 Students gathered around the board, reading it eagerly.
 
-<img class="text-wrap-image" src="assets/parade-1.png" >
+<img class="text-wrap-image" src="assets/parade-n1.png" >
 
 “Fifteen days of practice!” exclaimed one girl.
 
@@ -26,6 +26,8 @@ She shook her head and continued towards her classroom.
 
 That afternoon, students from all four houses assembled on the playground for selection.
 
+<img class="text-wrap-image" src="assets/parade-n2.png" >
+
 Padma did not even stop to watch.
 
 ⸻
@@ -33,6 +35,8 @@ Padma did not even stop to watch.
 The next day, parade practice began.
 
 Every evening, the large playground came alive with whistles, commands and marching feet.
+
+<img class="text-wrap-image" src="assets/parade-n3.png" >
 
 Blue House practised near the banyan tree.
 
@@ -50,7 +54,7 @@ Dust rose from the ground as dozens of students marched under the evening sun.
 
 Padma often sat under a tree with a few friends who had not joined the parade.
 
-<img class="text-wrap-image" src="assets/parade-2.png" >
+<img class="text-wrap-image" src="assets/parade-n4.png" >
 
 From there she watched the practice sessions.
 
@@ -82,6 +86,8 @@ The flag post stood proudly in the centre of the ground.
 
 Parents, teachers and guests filled the campus.
 
+<img class="text-wrap-image" src="assets/parade-n5.png" >
+
 The parade girls looked completely different from practice days.
 
 They wore crisp white uniforms.
@@ -96,7 +102,7 @@ One house after another marched past the flag post.
 
 As each team saluted the chief guests and turned neatly around the parade track, Padma silently judged them.
 
-<img class="text-wrap-image" src="assets/parade-3.png" >
+<img class="text-wrap-image" src="assets/parade-n6.png" >
 
 “Their line isn’t straight.”
 
@@ -143,6 +149,8 @@ He paused.
 “Blue House!”
 
 The ground erupted with cheers.
+
+<img class="text-wrap-image" src="assets/parade-n7.png" >
 
 Girls jumped with excitement.
 
@@ -198,6 +206,8 @@ They were celebrating fifteen days of memories she did not have.
 
 For the first time, Padma understood what she had missed.
 
+<img class="text-wrap-image" src="assets/parade-n8.png" >
+
 Not the trophy.
 
 Not the prize.
@@ -205,5 +215,7 @@ Not the prize.
 The journey.
 
 As she walked home that evening through the decorated streets of Mysuru, she made a quiet promise to herself.
+
+<img class="text-wrap-image" src="assets/parade-n9.png" >
 
 Next year, when the notice appeared on the board, she would not walk past it.
