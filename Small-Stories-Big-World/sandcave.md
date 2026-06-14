@@ -1,6 +1,6 @@
 # The Sand Cave
 
-One sunny afternoon, a truck rumbled into the playground beside the Bokaro quarters.
+One sunny afternoon, a truck rumbled into the playground beside the government quarters.
 
 The children stopped their games and stared.
 
